@@ -22,4 +22,5 @@ public class SnackController {
 	public List<Snacks> getSnacks() {
 		return snackService.getSnacks();
 	}
+    
 }
